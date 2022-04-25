@@ -1,0 +1,441 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{bergmann2015}
+R.~M. Bergmann, J.~L. Vuji{\'c}, Algorithmic choices in {WARP}--{A} framework
+  for continuous energy {M}onte {C}arlo neutron transport in general 3{D}
+  geometries on {GPU}s, Annals of Nuclear Energy 77 (2015) 176--193.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2014.10.039}
+  {\path{doi:10.1016/j.anucene.2014.10.039}}.
+
+\bibitem{brantley2017}
+P.~S. Brantley, R.~C. Bleile, S.~A. Dawson, N.~A. Gentile, M.~S. McKinley,
+  M.~J. O’Brien, M.~M. Pozulp, D.~F. Richards, D.~E. Stevens, J.~A. Walsh,
+  H.~Childs, {LLNL} {M}onte {C}arlo transport research efforts for advanced
+  computing architectures, in: Proceedings of International Conference on
+  Mathematics \& Computational Methods Applied to Nuclear Science \&
+  Engineering (M\&C 2017), Jeju, Korea, 2017.
+
+\bibitem{liu2014}
+{Liu, Tianyu}, {Du, Xining}, {Ji, Wei}, {Xu, X. George}, {Brown, Forrest B.}, A
+  comparative study of history-based versus vectorized {M}onte {C}arlo methods
+  in the {GPU/CUDA} environment for a simple neutron eigenvalue problem, in:
+  Array (Ed.), SNA + MC 2013 - Joint International Conference on Supercomputing
+  in Nuclear Applications + Monte Carlo, 2014, p. 04206.
+\newblock \href {http://dx.doi.org/10.1051/snamc/201404206}
+  {\path{doi:10.1051/snamc/201404206}}.
+
+\bibitem{okubo2016}
+T.~Okubo, T.~Endo, A.~Yamamoto, An efficient execution of {M}onte {C}arlo
+  simulation based on delta-tracking method using {GPUs}, Journal of Nuclear
+  Science and Technology 54~(1) (2016) 30--38.
+\newblock \href {http://dx.doi.org/10.1080/00223131.2016.1202793}
+  {\path{doi:10.1080/00223131.2016.1202793}}.
+
+\bibitem{brown2011}
+F.~B. Brown, Recent advances and future prospects for {M}onte {C}arlo, Progress
+  in Nuclear Science and Technology 2~(0) (2011) 1--4.
+\newblock \href {http://dx.doi.org/10.15669/pnst.2.1}
+  {\path{doi:10.15669/pnst.2.1}}.
+
+\bibitem{brun2015}
+E.~Brun, F.~Damian, C.~Diop, E.~Dumonteil, F.~Hugot, C.~Jouanne, Y.~Lee,
+  F.~Malvagi, A.~Mazzolo, O.~Petit, J.~Trama, T.~Visonneau, A.~Zoia,
+  {TRIPOLI-4®}, {CEA}, {EDF} and {AREVA} reference {M}onte {C}arlo code,
+  Annals of Nuclear Energy 82 (2015) 151 -- 160, joint International Conference
+  on Supercomputing in Nuclear Applications and Monte Carlo 2013, SNA + MC
+  2013. Pluri- and Trans-disciplinarity, Towards New Modeling and Numerical
+  Simulation Paradigms.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2014.07.053}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2014.07.053}}.
+
+\bibitem{romano2015}
+P.~K. Romano, N.~E. Horelik, B.~R. Herman, A.~G. Nelson, B.~Forget, K.~Smith,
+  Open{MC}: {A} state-of-the-art {M}onte {C}arlo code for research and
+  development, Annals of Nuclear Energy 82 (2015) 90 -- 97, joint International
+  Conference on Supercomputing in Nuclear Applications and Monte Carlo 2013,
+  SNA + MC 2013. Pluri- and Trans-disciplinarity, Towards New Modeling and
+  Numerical Simulation Paradigms.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2014.07.048}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2014.07.048}}.
+
+\bibitem{leppanen2015}
+J.~Lepp{\"a}nen, M.~Pusa, T.~Viitanen, V.~Valtavirta, T.~Kaltiaisenaho, The
+  {S}erpent {M}onte {C}arlo code: {S}tatus, development and applications in
+  2013, Annals of Nuclear Energy 82 (2015) 142 -- 150, joint International
+  Conference on Supercomputing in Nuclear Applications and Monte Carlo 2013,
+  SNA + MC 2013. Pluri- and Trans-disciplinarity, Towards New Modeling and
+  Numerical Simulation Paradigms.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2014.08.024}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2014.08.024}}.
+
+\bibitem{mylonakis2017}
+A.~G. Mylonakis, M.~Varvayanni, D.~Grigoriadis, N.~Catsaros, Developing and
+  investigating a pure {M}onte-{C}arlo module for transient neutron transport
+  analysis, Annals of Nuclear Energy 104 (2017) 103--112.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2016.12.039}
+  {\path{doi:10.1016/j.anucene.2016.12.039}}.
+
+\bibitem{leppanen2013}
+J.~Lepp{\"a}nen, Development of a dynamic simulation mode in {S}erpent 2
+  {M}onte {C}arlo code, Proceedings of the International Conference on
+  Mathematics and Computational Methods Applied to Nuclear Science and
+  Engineering (M\&C 2013) (2013) 5--9.
+
+\bibitem{valtavirta2016}
+V.~Valtavirta, M.~Hessan, J.~Lepp{\"a}nen, Delayed neutron emission model for
+  time dependent simulations with the {S}erpent 2 {M}onte {C}arlo code-first
+  results, in: Proceedings of the International Conference on the Physics of
+  Reactors (PHYSOR2016), American Nuclear Society, Sun Valley, Idaho, USA,
+  2016.
+
+\bibitem{russell2014}
+L.~Russell, A.~Buijs, G.~Jonkmans, {G4-STORK}: A {M}onte {C}arlo reactor
+  kinetics simulation code, Nuclear Science and Engineering 176~(3) (2014)
+  370--375.
+\newblock \href {http://dx.doi.org/10.13182/nse13-8}
+  {\path{doi:10.13182/nse13-8}}.
+
+\bibitem{agostinelli2003}
+S.~Agostinelli, J.~Allison, K.~Amako, J.~Apostolakis, H.~Araujo, P.~Arce,
+  M.~Asai, D.~Axen, S.~Banerjee, G.~Barrand, F.~Behner, L.~Bellagamba,
+  J.~Boudreau, L.~Broglia, A.~Brunengo, H.~Burkhardt, S.~Chauvie, J.~Chuma,
+  R.~Chytracek, G.~Cooperman, G.~Cosmo, P.~Degtyarenko, A.~Dell'Acqua,
+  G.~Depaola, D.~Dietrich, R.~Enami, A.~Feliciello, C.~Ferguson, H.~Fesefeldt,
+  G.~Folger, F.~Foppiano, A.~Forti, S.~Garelli, S.~Giani, R.~Giannitrapani,
+  D.~Gibin, J.~G. Cadenas, I.~González, G.~G. Abril, G.~Greeniaus, W.~Greiner,
+  V.~Grichine, A.~Grossheim, S.~Guatelli, P.~Gumplinger, R.~Hamatsu,
+  K.~Hashimoto, H.~Hasui, A.~Heikkinen, A.~Howard, V.~Ivanchenko, A.~Johnson,
+  F.~Jones, J.~Kallenbach, N.~Kanaya, M.~Kawabata, Y.~Kawabata, M.~Kawaguti,
+  S.~Kelner, P.~Kent, A.~Kimura, T.~Kodama, R.~Kokoulin, M.~Kossov,
+  H.~Kurashige, E.~Lamanna, T.~Lampén, V.~Lara, V.~Lefebure, F.~Lei,
+  M.~Liendl, W.~Lockman, F.~Longo, S.~Magni, M.~Maire, E.~Medernach,
+  K.~Minamimoto, P.~M. de~Freitas, Y.~Morita, K.~Murakami, M.~Nagamatu,
+  R.~Nartallo, P.~Nieminen, T.~Nishimura, K.~Ohtsubo, M.~Okamura, S.~O'Neale,
+  Y.~Oohata, K.~Paech, J.~Perl, A.~Pfeiffer, M.~Pia, F.~Ranjard, A.~Rybin,
+  S.~Sadilov, E.~D. Salvo, G.~Santin, T.~Sasaki, N.~Savvas, Y.~Sawada,
+  S.~Scherer, S.~Sei, V.~Sirotenko, D.~Smith, N.~Starkov, H.~Stoecker,
+  J.~Sulkimo, M.~Takahata, S.~Tanaka, E.~Tcherniaev, E.~S. Tehrani,
+  M.~Tropeano, P.~Truscott, H.~Uno, L.~Urban, P.~Urban, M.~Verderi, A.~Walkden,
+  W.~Wander, H.~Weber, J.~Wellisch, T.~Wenaus, D.~Williams, D.~Wright,
+  T.~Yamada, H.~Yoshida, D.~Zschiesche,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168900203013688}{Geant4—a
+  simulation toolkit}, Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+  506~(3) (2003) 250 -- 303.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/S0168-9002(03)01368-8}
+  {\path{doi:https://doi.org/10.1016/S0168-9002(03)01368-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168900203013688}
+
+\bibitem{shaukat2017}
+N.~Shaukat, M.~Ryu, H.~J. Shim, Dynamic {M}onte {C}arlo transient analysis for
+  the organization for economic co-operation and development nuclear energy
+  agency ({OECD}/{NEA}) {C5G7}-{TD} benchmark, Nuclear Engineering and
+  Technology 49~(5) (2017) 920--927.
+\newblock \href {http://dx.doi.org/10.1016/j.net.2017.04.008}
+  {\path{doi:10.1016/j.net.2017.04.008}}.
+
+\bibitem{srivastava2017}
+A.~Srivastava, K.~Singh, S.~Degweker, {M}onte {C}arlo methods for reactor
+  kinetic simulations, Nuclear Science and Engineering 189~(2) (2018) 152--170.
+\newblock \href {http://dx.doi.org/10.1080/00295639.2017.1388091}
+  {\path{doi:10.1080/00295639.2017.1388091}}.
+
+\bibitem{yamamoto2015}
+T.~Yamamoto, H.~Sakamoto, Dynamic {M}onte {C}arlo calculation method by solving
+  frequency domain transport equation using the complex-valued weight {M}onte
+  {C}arlo method, Annals of Nuclear Energy 85 (2015) 426--433.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2015.04.041}
+  {\path{doi:10.1016/j.anucene.2015.04.041}}.
+
+\bibitem{sjenitzer2013}
+B.~L. Sjenitzer, J.~E. Hoogenboom, Dynamic {M}onte {C}arlo method for nuclear
+  reactor kinetics calculations, Nuclear Science and Engineering 175~(1) (2013)
+  94--107.
+\newblock \href {http://dx.doi.org/10.13182/nse12-44}
+  {\path{doi:10.13182/nse12-44}}.
+
+\bibitem{legrady2008}
+D.~Legrady, J.~E. Hoogenboom, Scouting the feasibility of {M}onte {C}arlo
+  reactor dynamics simulations, in: Proceedings of the International Conference
+  on the Physics of Reactors 2008 (PHYSOR08), Paul Scherrer Institut,
+  Interlaken, Switzerland, 2008.
+
+\bibitem{sjenitzer2011prog}
+B.~L. Sjenitzer, J.~E. Hoogenboom, A {M}onte {C}arlo method for calculation of
+  the dynamic behaviour of nuclear reactors, Progress in Nuclear Science and
+  Technology 2 (2011) 716.
+\newblock \href {http://dx.doi.org/10.15669/pnst.2.716}
+  {\path{doi:10.15669/pnst.2.716}}.
+
+\bibitem{sjenitzer2011}
+B.~L. Sjenitzer, J.~E. Hoogenboom, Variance reduction for fixed-source {M}onte
+  {C}arlo calculations in multiplying systems by improving chain-length
+  statistics, Annals of Nuclear Energy 38~(10) (2011) 2195--2203.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2011.06.013}
+  {\path{doi:10.1016/j.anucene.2011.06.013}}.
+
+\bibitem{sjenitzer2015}
+B.~L. Sjenitzer, J.~E. Hoogenboom, J.~J. Escalante, V.~S. Espinoza, Coupling of
+  dynamic {M}onte {C}arlo with thermal-hydraulic feedback, Annals of Nuclear
+  Energy 76 (2015) 27--39.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2014.09.018}
+  {\path{doi:10.1016/j.anucene.2014.09.018}}.
+
+\bibitem{faucher2018}
+M.~Faucher, D.~Mancusi, A.~Zoia, New kinetic simulation capabilities for
+  {T}ripoli-4{\textregistered}: {M}ethods and applications, Annals of Nuclear
+  Energy 120 (2018) 74--88.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2018.05.030}
+  {\path{doi:10.1016/j.anucene.2018.05.030}}.
+
+\bibitem{bialas2015}
+P.~Bialas, A.~Strzelecki, Benchmarking the cost of thread divergence in {CUDA},
+  in: International Conference on Parallel Processing and Applied Mathematics,
+  Springer, 2015, pp. 570--579.
+\newblock \href {http://dx.doi.org/10.1007/978-3-319-32149-3_53}
+  {\path{doi:10.1007/978-3-319-32149-3_53}}.
+
+\bibitem{booth1996}
+T.~Booth, A weight (charge) conserving importance-weighted comb for {M}onte
+  {C}arlo, Tech. Rep. LA-UR-96-0051, Los Alamos National Lab., NM (United
+  States) (1996).
+
+\bibitem{woodcock1965}
+E.~Woodcock, T.~Murphy, P.~Hemmings, S.~Longworth, Techniques used in the {GEM}
+  code for {M}onte {C}arlo neutronics calculations in reactors and other
+  systems of complex geometry, in: Proc. Conf. Applications of Computing
+  Methods to Reactor Problems, Vol. 557, 1965, p.~2.
+
+\bibitem{carter1972}
+L.~L. Carter, E.~D. Cashwell, W.~M. Taylor, Monte {C}arlo sampling with
+  continuously varying cross sections along flight paths, Nuclear Science and
+  Engineering 48~(4) (1972) 403--411.
+\newblock \href {http://dx.doi.org/10.13182/nse72-1}
+  {\path{doi:10.13182/nse72-1}}.
+
+\bibitem{cramer1978}
+S.~Cramer, Application of the fictitious scattering radiation transport model
+  for deep-penetration {M}onte {C}arlo calculations, Nuclear Science and
+  Engineering 65~(2) (1978) 237--253.
+\newblock \href {http://dx.doi.org/10.2172/5257977}
+  {\path{doi:10.2172/5257977}}.
+
+\bibitem{galtier2013}
+M.~Galtier, S.~Blanco, C.~Caliot, C.~Coustet, J.~Dauchet, M.~E. Hafi, V.~Eymet,
+  R.~Fournier, J.~Gautrais, A.~Khuong, B.~Piaud, G.~Terr{\'{e}}e, Integral
+  formulation of null-collision {M}onte {C}arlo algorithms, Journal of
+  Quantitative Spectroscopy and Radiative Transfer 125 (2013) 57--68.
+\newblock \href {http://dx.doi.org/10.1016/j.jqsrt.2013.04.001}
+  {\path{doi:10.1016/j.jqsrt.2013.04.001}}.
+
+\bibitem{morgan2015}
+L.~Morgan, D.~Kotlyar, Weighted-delta-tracking for {M}onte {C}arlo particle
+  transport, Annals of Nuclear Energy 85 (2015) 1184--1188.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2015.07.038}
+  {\path{doi:10.1016/j.anucene.2015.07.038}}.
+
+\bibitem{legrady2017}
+D.~Legrady, B.~Molnar, M.~Klausz, T.~Major, Woodcock tracking with arbitrary
+  sampling cross section using negative weights, Annals of Nuclear Energy 102
+  (2017) 116--123.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2016.12.003}
+  {\path{doi:10.1016/j.anucene.2016.12.003}}.
+
+\bibitem{molnar2018}
+B.~Molnar, G.~Tolnai, D.~Legrady, Variance reduction and optimization
+  strategies in a biased {W}oodcock particle tracking framework, Nuclear
+  Science and Engineering 190~(1) (2018) 56--72.
+\newblock \href {http://dx.doi.org/10.1080/00295639.2017.1413876}
+  {\path{doi:10.1080/00295639.2017.1413876}}.
+
+\bibitem{briesmeister2000}
+J.~F. Briesmeister, et~al., {MCNP}-{A} general {M}onte {C}arlo {N}-particle
+  transport code, Version 4C, LA-13709-M, Los Alamos National Laboratory (2000)
+  2.
+
+\bibitem{njoy}
+R.~Macfarlane, D.~W. Muir, R.~M. Boicourt, A.~C. Kahler, III, J.~L. Conlin, The
+  {NJOY} nuclear data processing system, version 2016\href
+  {http://dx.doi.org/10.2172/1338791} {\path{doi:10.2172/1338791}}.
+
+\bibitem{szirmay2011}
+L.~Szirmay-Kalos, B.~T{\'{o}}th, M.~Magdics, Free path sampling in high
+  resolution inhomogeneous participating media, in: Computer Graphics Forum,
+  Vol.~30, Wiley-Blackwell, 2011, pp. 85--97.
+\newblock \href {http://dx.doi.org/10.1111/j.1467-8659.2010.01831.x}
+  {\path{doi:10.1111/j.1467-8659.2010.01831.x}}.
+
+\bibitem{amanatides1987}
+J.~Amanatides, A.~Woo, et~al., A fast voxel traversal algorithm for ray
+  tracing, in: Eurographics, Vol.~87, 1987, pp. 3--10.
+
+\bibitem{molnar2018vec}
+B.~Molnar, G.~Tolnai, D.~Legrady, M.~Szieberth, Vectorized {M}onte {C}arlo for
+  {GUARDYAN} -- a {GPU} accelerated reactor dynamics code, in: PHYSOR 2018:
+  Reactor Physics paving the way towards more efficient systems, 2018.
+
+\bibitem{legrady2018}
+D.~Legrady, A.~Claret, B.~Molnar, G.~Tolnai, Validation of the interaction
+  physics of {GUARDYAN} a novel {GPU}-based {M}onte {C}arlo code for short time
+  scale reactor transients, in: PHYSOR 2018: Reactor Physics paving the way
+  towards more efficient systems, 2018.
+
+\bibitem{handbook}
+J.~D. Bess, T.~Ivanova, International Handbook of Evaluated Criticality Safety
+  Benchmark Experiments, no. NEA-1486/16, NEA Nuclear Science Committee, 2018.
+
+\bibitem{gross1960}
+E.~E. Gross, J.~Marable, Static and dynamic multiplication factors and their
+  relation to the inhour equation, Nuclear Science and Engineering 7~(4) (1960)
+  281--291.
+\newblock \href {http://dx.doi.org/10.13182/nse60-a25718}
+  {\path{doi:10.13182/nse60-a25718}}.
+
+\bibitem{cullen2003}
+D.~E. Cullen, C.~J. Clouse, R.~Procassini, R.~C. Little, Static and dynamic
+  criticality: are they different?, Tech. Rep. UCRL-TR-201506, Lawrence
+  Livermore National Lab., Livermore, CA (US) (2003).
+\newblock \href {http://dx.doi.org/10.2172/15009756}
+  {\path{doi:10.2172/15009756}}.
+
+\bibitem{zoia2014}
+A.~Zoia, E.~Dumonteil, A.~Mazzolo, C.~de~Mulatier, A.~Rosso, Clustering of
+  branching {B}rownian motions in confined geometries, Phys. Rev. E 90 (2014)
+  042118.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevE.90.042118}
+  {\path{doi:10.1103/PhysRevE.90.042118}}.
+
+\bibitem{deMulatier2015}
+C.~de~Mulatier, E.~Dumonteil, A.~Rosso, A.~Zoia, The critical catastrophe
+  revisited, Journal of Statistical Mechanics: Theory and Experiment 2015~(8)
+  (2015) P08021.
+\newblock \href {http://dx.doi.org/10.1088/1742-5468/2015/08/p08021}
+  {\path{doi:10.1088/1742-5468/2015/08/p08021}}.
+
+\bibitem{houchmandzadeh2015}
+B.~Houchmandzadeh, E.~Dumonteil, A.~Mazzolo, A.~Zoia, Neutron fluctuations:
+  {T}he importance of being delayed, Phys. Rev. E 92 (2015) 052114.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevE.92.052114}
+  {\path{doi:10.1103/PhysRevE.92.052114}}.
+
+\bibitem{zoia2017}
+E.~D. A.~Zoia,
+  \href{https://www.kns.org/files/int_paper/paper/MC2017_2017_6/P310S06-10ZoiaA.pdf}{Neutron
+  clustering: spatial fluctuations in multiplying systems close to the critical
+  point}, in: M\&C 2017 - International Conference on Mathematics \&
+  Computational Methods Applied to Nuclear Science \& Engineering, 2017.
+\newline\urlprefix\url{https://www.kns.org/files/int_paper/paper/MC2017_2017_6/P310S06-10ZoiaA.pdf}
+
+\bibitem{dumonteil2015}
+E.~Dumonteil, F.~Malvagi, A.~Zoia, A.~Mazzolo, D.~Artusio, C.~Dieudonné, C.~D.
+  Mulatier, Particle clustering in {M}onte {C}arlo criticality simulations,
+  Annals of Nuclear Energy 63 (2014) 612 -- 618.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2013.09.008}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2013.09.008}}.
+
+\bibitem{nowak2016}
+M.~Nowak, J.~Miao, E.~Dumonteil, B.~Forget, A.~Onillon, K.~S. Smith, A.~Zoia,
+  Monte carlo power iteration: {E}ntropy and spatial correlations, Annals of
+  Nuclear Energy 94 (2016) 856 -- 868.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2016.05.002}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2016.05.002}}.
+
+\bibitem{sutton2017}
+T.~M. Sutton, A.~Mittal, Neutron clustering in {M}onte {C}arlo iterated-source
+  calculations, Nuclear Engineering and Technology 49~(6) (2017) 1211 -- 1218,
+  {S}pecial Issue on International Conference on Mathematics and Computational
+  Methods Applied to Nuclear Science and Engineering 2017 (M\&C 2017).
+\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.net.2017.07.008}
+  {\path{doi:https://doi.org/10.1016/j.net.2017.07.008}}.
+
+\bibitem{klujber2018}
+G.~Klujber, M.~Szieberth, Benchmark description of the {BME} {T}raining
+  {R}eactor, Tech. Rep. BME-NTI-821/2017, Budapest University of Technology and
+  Economics, Institute of Nuclear Techniques, Budapest, Hungary (2018).
+
+\bibitem{daeubler2015}
+M.~Daeubler, A.~Ivanov, B.~L. Sjenitzer, V.~Sanchez, R.~Stieglitz,
+  R.~Macian-Juan, High-fidelity coupled {M}onte {C}arlo neutron transport and
+  thermal-hydraulic simulations using {Serpent 2/SUBCHANFLOW}, Annals of
+  Nuclear Energy 83 (2015) 352--375.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2015.03.040}
+  {\path{doi:10.1016/j.anucene.2015.03.040}}.
+
+\bibitem{syed2016}
+W.~Syed, K.~S. Chaudri, M.~Sohail, Development of coupled neutron
+  physics/thermal hydraulics system using {OpenMC} and {RELAP5}, in:
+  International Conference on Emerging Technologies (ICET), IEEE, 2016, pp.
+  1--4.
+\newblock \href {http://dx.doi.org/10.1109/icet.2016.7813274}
+  {\path{doi:10.1109/icet.2016.7813274}}.
+
+\bibitem{henry2017}
+R.~Henry, I.~Tiselj, L.~Snoj, {CFD}/{M}onte {C}arlo neutron transport coupling
+  scheme, application to {TRIGA} reactor, Annals of Nuclear Energy 110 (2017)
+  36--47.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2017.06.018}
+  {\path{doi:10.1016/j.anucene.2017.06.018}}.
+
+\bibitem{aufiero2015}
+M.~Aufiero, C.~Fiorina, A.~Laureau, P.~Rubiolo, V.~Valtavirta,
+  {Serpent--OpenFOAM} coupling in transient mode: simulation of a {G}odiva
+  prompt critical burst, Proceedings of ANS MC2015 - Joint International
+  Conference on Mathematics and Computation (M\&C), Supercomputing in Nuclear
+  Applications (SNA) and the Monte Carlo (MC) Method (2015) 19--23.
+
+\bibitem{kozlowski2007}
+T.~Kozlowski, T.~J. Downar, {PWR} {MOX/UO2} core transient benchmark final
+  report, Nuclear Energy Agency, Organization for Economic Co-operation and
+  Development, US Nuclear Regulatory Commission~(NEA-1780/01).
+
+\bibitem{rohde2016}
+U.~Rohde, S.~Kliem, U.~Grundmann, S.~Baier, Y.~Bilodid, S.~Duerigen,
+  E.~Fridman, A.~Gommlich, A.~Grahn, L.~Holt, et~al., The reactor dynamics code
+  {DYN3D} -- models, validation and applications, Progress in Nuclear Energy 89
+  (2016) 170--190.
+\newblock \href {http://dx.doi.org/10.1016/j.pnucene.2016.02.013}
+  {\path{doi:10.1016/j.pnucene.2016.02.013}}.
+
+\bibitem{knebel2016}
+M.~Knebel, L.~Mercatali, V.~Sanchez, R.~Stieglitz, R.~Macian-Juan, Validation
+  of the {S}erpent 2-{DYNSUB} code sequence using the special power excursion
+  reactor test {III (SPERT III)}, Annals of Nuclear Energy 91 (2016) 79--91.
+\newblock \href {http://dx.doi.org/10.1016/j.anucene.2016.01.005}
+  {\path{doi:10.1016/j.anucene.2016.01.005}}.
+
+\bibitem{shen2019}
+Q.~Shen, Y.~Wang, D.~Jabaay, B.~Kochunas, T.~Downar, Transient analysis of
+  {C5G7-TD} benchmark with {MPACT}, Annals of Nuclear Energy 125 (2019) 107 --
+  120.
+\newblock \href
+  {http://dx.doi.org/https://doi.org/10.1016/j.anucene.2018.10.049}
+  {\path{doi:https://doi.org/10.1016/j.anucene.2018.10.049}}.
+
+\bibitem{boyarinov2016}
+V.~Boyarinov, P.~Fomichenko, J.~Hou, K.~Ivanov, A.~Aures, W.~Zwermann,
+  K.~Velkov, Deterministic time-dependent neutron transport benchmark without
+  spatial homogenization {(C5G7-TD)}, Nuclear Energy Agency Organisation for
+  Economic Co-operation and Development (NEA-OECD).
+
+\bibitem{klujber2017}
+G.~Klujber, M.~Szieberth, Development of {FPGA} based time--stamp mode data
+  acquisition system, Tech. Rep. BME-NTI-821/2017, Budapest University of
+  Technology and Economics, Institute of Nuclear Techniques, Budapest, Hungary
+  (2017).
+
+\bibitem{knoll1989}
+G.~F. Knoll, Radiation detection and measurement, 2nd Edition, John Wiley \&
+  Sons, 1989.
+
+\end{thebibliography}
